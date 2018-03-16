@@ -1,6 +1,6 @@
 # Site Info
 title: DANIELA
-tagline: 'STUDY AND DAILY LOG'
+tagline: 'DANIELA - STUDY AND DAILY LOG'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl: ""
 url: https://dongmeekim.github.io/
@@ -26,17 +26,18 @@ version: 1.0.0
 author:
   name:   daniela
   description: 차근차근, 그리고 꾸준히 기록하는 공부 & 일상 로그
+  github : https://github.com/dongmeekim
   contact:
     #linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/dongmeekim
     # facebook:  <hide>
     #twitter:   https://twitter.com/Li_Zhihao
     #weibo:     http://weibo.com/41173780
-    email:     kdmee90@gmail.com
+    email:     malito:kdmee90@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
-  Home:           
+  Home:         
     - '/'
   Blog:           
     - '/blog/'
