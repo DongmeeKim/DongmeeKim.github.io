@@ -39,14 +39,13 @@ author:
 nav:
   Home:         
     - '/'
-  Blog:           
-    - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+  Categories:           
+    - '/'
+   # - { Categories All: '/blog/categories/' }
+    - { Python : '/blog/categories/#python' }
+    - { Daily Memo : '/blog/categories/#daily-memo' }
   About:          
     - '/about/'
- #Github Project: 
-    #- 'http://codinfox.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
