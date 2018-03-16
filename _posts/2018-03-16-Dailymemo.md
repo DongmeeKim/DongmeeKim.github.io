@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 패캠 장고 4. Dstagram_photo app 생성 및 모델 만들기
-categories: Django
-tags: [Django, python, 장고]
+title: 20180316 DAILY MEMO
+categories: DAILY MEMO
+tags: [DAILY MEMO]
 comments: true
 ---
 
-
-##MEMO##
 - 오늘 간소하게나마 내 공부로그를 완성했다. 간단하게 공부요약과 나의 생각 및 느낀점 등을 써내려갈 예정이다. 
 
 - 블로그를 만들면서 조바심이 들 때에는 스스로 심호흡을 한 번 하게 된다. 페이스 조절을 하지 못해 내가 지쳐버리는 실수를 다시 겪지 않도록. 
