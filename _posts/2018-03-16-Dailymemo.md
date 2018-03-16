@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20180316 DAILY MEMO
-categories: DAILY MEMO
+categories: DAILYMEMO
 tags: [DAILY MEMO]
 comments: true
 ---
