@@ -40,10 +40,9 @@ nav:
   Home:         
     - '/'
   Categories:           
-    - '/'
-   # - { Categories All: '/blog/categories/' }
-    - { Python : '/blog/categories/#python' }
-    - { Daily Memo : '/blog/categories/#daily-memo' }
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
 
