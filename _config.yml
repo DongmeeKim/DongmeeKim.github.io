@@ -39,7 +39,7 @@ author:
 nav:
   Home:         
     - '/'
-  Categories:           
+  Blog:           
     - '/blog/'
     - { Categories: '/blog/categories/' }
     - { Tags: '/blog/tags/' }
@@ -58,4 +58,3 @@ hero:
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: 'daniela' # leave blank if you don't want disqus
-
