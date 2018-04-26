@@ -9,7 +9,6 @@ comments: true
 ### STUDY
 -  장고를 활용한 웹사이트 만들기 - MVC 패턴 수강/ 기능추가하기 파트 수강
    -  [응용 프로젝트 GITHUB 링크](https://github.com/DongmeeKim/Django-practice) 
-   -  URL 다루기 강의에서 정규표현식에 대해서 간단히 공부하였다. [EGONIG님의 정규표현식 강의가](https://www.opentutorials.org/course/909/5142) 강의노트에 링크되어 있어 이 수업이 완료되면 이어 수강할 예정
 
 
 ### THINK
